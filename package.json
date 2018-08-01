@@ -1,0 +1,19 @@
+{
+  "name": "sentino-starter-kit",
+  "version": "0.0.0",
+  "description": "starter-kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sentino/starter-kit.git"
+  },
+  "author": "Stanislav Bohatyrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sentino/starter-kit/issues"
+  },
+  "homepage": "https://github.com/sentino/starter-kit#readme",
+  "devDependencies": {
+    "tslint": "~5.9.1",
+    "typescript": "^3.0.1"
+  }
+}
